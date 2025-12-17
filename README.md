@@ -1,3 +1,4 @@
 # Fine-tuning-RL-for-LLMs-Intro-to-Post-training
 Fine-tuning and Reinforcement Learning for LLMs: Intro to Post-Training
-Deplearning.ai & AMD
+Instructor: Sharon Zhou
+Deeplearning.ai & AMD
